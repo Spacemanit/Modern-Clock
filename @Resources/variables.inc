@@ -6,7 +6,7 @@ color1=255,255,255,255
 ;               H for 24hr
 cf=H
 
-Font=Google Sans
+Font=SF Pro
 
 ImagePath=#@#Images\
 
