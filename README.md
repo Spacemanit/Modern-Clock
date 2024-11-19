@@ -1,6 +1,7 @@
 <h1>Modern Clock</h1>
 
-![image](https://github.com/user-attachments/assets/bb8adeea-738c-4753-b64f-b06b78ff6c37)
+![image](https://github.com/user-attachments/assets/da708e12-3cec-4a0e-9ba2-8cb19487c2f8)
+
 
 
 Plugins used 
