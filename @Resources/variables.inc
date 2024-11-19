@@ -1,6 +1,6 @@
 [Variables]
 
-color1=255,255,255,255
+color1=255,227,227,255
 
 ;clock formart: I for 12hr
 ;               H for 24hr
