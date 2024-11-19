@@ -1,6 +1,7 @@
 <h1>Modern Clock</h1>
 
-![image](https://github.com/user-attachments/assets/51284761-9d8f-4d9e-8cae-603abe22d522)
+![image](https://github.com/user-attachments/assets/bb8adeea-738c-4753-b64f-b06b78ff6c37)
+
 
 Plugins used 
 1. RainRGB (https://forum.rainmeter.net/viewtopic.php?t=6215)
