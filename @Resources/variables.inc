@@ -1,8 +1,8 @@
 [Variables]
-colormode=Aero
-FColor=196,136,132,255
-BColor=58,158,75,100
-balpha=100
+colormode=Transparent
+FColor=252,229,227,255
+BColor=168,168,168,50
+balpha=50
 ;clock formart: I for 12hr
 ;               H for 24hr
 cf=H
